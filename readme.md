@@ -19,3 +19,5 @@ Never see your plain text password logged anywhere
 
 ## Reference: 
 https://bugzilla.redhat.com/show_bug.cgi?id=2052696
+
+NOTE: Vulnerability Only Present in KeePass. Not in KeePassXC and Other Packages.

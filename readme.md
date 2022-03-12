@@ -1,7 +1,7 @@
 ### [CVE-2022-0725](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0725)
 ![](https://img.shields.io/static/v1?label=Product&message=keepass&color=blue)
 ![](https://img.shields.io/static/v1?label=Version&message=2.48&color=blue)
-![](https://img.shields.io/static/v1?label=Vulnerability&message=MemoryLeak&color=brighgreen)
+![](https://img.shields.io/static/v1?label=Vulnerability&message=InformationExposure&color=brighgreen)
 
 # POC for KeePass [CVE-2022-0725]
 
